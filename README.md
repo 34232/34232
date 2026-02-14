@@ -1,4 +1,4 @@
-I’m a detail-oriented Data Analyst passionate about transforming raw data into actionable insights. Skilled in SQL, Python, Excel, Power BI, and Tableau, I specialize in building dashboards, analyzing trends, and supporting data-driven decision-making.
+I’m a detail-oriented Data Analyst passionate about transforming raw data into actionable insights. Skilled in tableau, power BI, python, MS excel, SQL. I specialize in building dashboards, analyzing trends, and supporting data-driven decision-making.
 
 - 🗂️ **Data Cleaning & Preparation**
 - 📊 **Dashboard Design & Visualization**
